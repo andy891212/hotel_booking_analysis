@@ -37,19 +37,19 @@ accuracy                           0.79     23878
 
 #### 📊 每月總營收變化
 
-![Monthly Revenue](figures/monthly_revenue.png)
+![Monthly Revenue](figure/monthly_revenue.png)
 
 ---
 
 #### 🛫 各市場來源每月營收變化
 
-![Revenue by Market Segment](figures/revenue_by_market_segment.png)
+![Revenue by Market Segment](figure/revenue_by_market_segment.png)
 
 ---
 
 #### 🏨 城市飯店 vs 渡假飯店 營收比較
 
-![Revenue by Hotel Type](figures/revenue_by_hotel_type.png)
+![Revenue by Hotel Type](figure/revenue_by_hotel_type.png)
 
 ---
 
